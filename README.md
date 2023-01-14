@@ -7,7 +7,7 @@ Tecnologias utilizadas:
 - Librerias: Selenium - TestNG - ApachePOI - Allure - Slf4j
 - Reporte: TestNG y Allure
 
-Configuración del ambiente:
+Configuración de ambiente:
 1. Descargar y configurar variables de entorno de JAVA (JAVA_HOME y PATH)
 2. Instalar TestNG en el editor
 3. Para instalar Allure Report: <br>
